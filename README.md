@@ -1,0 +1,1 @@
+Understanding Linear regression using Ordinary Least Square method and Gradient Descent
